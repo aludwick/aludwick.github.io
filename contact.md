@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Contact Me
 ---
 
 I welcome the opportunity to connect with peers, mentors, and professionals interested in computational biology, biomedical informatics, or related fields. Your inquiries and correspondence are greatly appreciated!
 
-# Contact
+# Contact Information
 
 - 📧 Email: [aml347@pitt.edu](mailto:aml347@pitt.edu)  
 - 🌐 LinkedIn: [linkedin.com/in/averil-ludwick](https://www.linkedin.com/in/averil-ludwick/)  
