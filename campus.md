@@ -2,6 +2,8 @@
 title: Campus Involvement
 ---
 
+# **Campus Involvement**
+
 # **Extracurricular Activities**
 ## Computational Health Sciences Club at Pitt (September 2024 - Present)
 ### *Co-President (April 2025 - Present)*
