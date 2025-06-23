@@ -13,6 +13,6 @@ My technical skill set includes culture plating, DNA extraction, PCR, command li
 
 Beyond research, I’m passionate about fostering interdisciplinary collaboration as Co-President of the Computational Health Sciences Club, where I organize events connecting students and faculty from biology, computer science, and public health.
 
-Outside of academics, I am a proud Pittsburgh native who enjoys experiencing the city’s vibrant arts and eats scenes, exploring its diverse neighborhoods and parks, and discovering new coffee spots. I love cooking and baking, and sharing the meals and treats with friends and family. I am also a big fan of spending time outside to enjoy nature and rewind. Inside, you may find me watching the newest crime documentary or playing word games, like Scrabble and Bananagrams!
+Outside of academics, I am a proud Pittsburgh native who enjoys experiencing the city’s vibrant arts and eats scenes, exploring its diverse neighborhoods and parks, and discovering new coffee spots. I love cooking and baking, and sharing the meals and treats with friends and family. I am also a big fan of spending time outside to enjoy nature and unwind. In my free tim, you may find me watching the newest crime documentary or playing word games, like Scrabble and Bananagrams!
 
 [← Back to Home](index.md)
