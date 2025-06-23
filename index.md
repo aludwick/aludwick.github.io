@@ -13,5 +13,7 @@ This portfolio showcases my journey merging biology and computation, highlightin
 
 - [About Me](about)
 - [Contact](contact)
+- [Projects](projects)
+- [Campus Involvement](campus)
 
 
