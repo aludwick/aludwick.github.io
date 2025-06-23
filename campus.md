@@ -1,8 +1,8 @@
 ---
-title: **Campus Involvement**
+title: Campus Involvement
 ---
 
-# Extracurricular Activities
+# **Extracurricular Activities**
 ## Computational Health Sciences Club at Pitt (September 2024 - Present)
 ### *Co-President (April 2025 - Present)*
 - Lead a 7-person executive board to grow club membership, fostering interdisciplinary collaboration among students interested in data science, biology, and medicine
@@ -14,7 +14,7 @@ title: **Campus Involvement**
 - Achieved first place in the club's drug discovery competition, applying computational protein docking approaches to identify potential therapeutic targets with real-world relevance
 
 
-# Peer Mentorship
+# **Peer Mentorship**
 ## Undergraduate Mentor (Starting August 2025)
 ### *University of Pittsburgh, Dietrich School of Arts and Sciences, Office of Undergraduate Research, Scholarship, and Creative Activity (OUR)*
 - Mentor peers on research skill development, scholarly exploration, and navigating research opportunities within the Dietrich School
