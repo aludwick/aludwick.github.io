@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-I welcome the opportunity to connect with colleagues, mentors, and professionals interested in computational biology, biomedical informatics, or related fields. Your inquiries and correspondence are greatly appreciated!
+I welcome the opportunity to connect with peers, mentors, and professionals interested in computational biology, biomedical informatics, or related fields. Your inquiries and correspondence are greatly appreciated!
 
 # Contact
 
