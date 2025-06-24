@@ -8,7 +8,7 @@ Hi! My name is Averil Ludwick, and I am a senior undergraduate student at the Un
 
 This portfolio showcases my journey merging biology and computation, highlighting projects and leadership that reflect my commitment to innovative, data-driven science.
 
-![BSF image](images/BSF08075-1.jpeg)
+!(BSF08075-1.jpeg)
 
 
 
