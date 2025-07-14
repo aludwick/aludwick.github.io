@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Research
 ---
 
-# Projects
+# Research
 
 in progress
 
