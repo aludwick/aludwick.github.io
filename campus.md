@@ -21,10 +21,16 @@ title: Campus Involvement
 ### *University of Pittsburgh, Dietrich School of Arts and Sciences, Office of Undergraduate Research, Scholarship, and Creative Activity (OUR)*
 - Mentor peers on research skill development, scholarly exploration, and navigating research opportunities within the Dietrich School
 - Collaborate with a cohort of mentors to foster a supportive and inclusive community of undergraduate scholars
-  
-## Undergraduate Teaching Assistant (January 2024 - April 2024)
+
+## Undergraduate Teaching Assistant, First Approaches in Research (Starting August 2025)
+### *University of Pittsburgh, Dietrich School of Arts and Sciences, Office of Undergraduate Research, Scholarship, and Creative Activity (OUR)*
+- Support undergraduate students interested in learning different approaches to research
+- Lead student engagement through weekly discussions, site visits, and personalized office hours and share course updates and academic resources using Canvas and email
+- Collaborate with faculty to co-plan lessons and support classroom instruction
+
+## Undergraduate Teaching Assistant, Foundations of Biology Lab I (January 2024 - April 2024)
 ### *University of Pittsburgh, Department of Biological Sciences*
-- Facilitated student success in the "Duckweed Survivor" Biology Research Lab by guiding 20-person classes through experimental design, data collection, and interpretation using data and statistical tools like Excel and Fiji
+- Facilitated student success in the "Duckweed Survivor" Introductory Biology Research Lab course by guiding 20-person classes through experimental design, data collection, and interpretation using data and statistical tools like Excel and Fiji
 - Collaborated with faculty and other teaching assistants to design lab exercises, troubleshoot protocols, and ensure timely execution of course objectives
 - Enhanced student understanding by offering one-on-one and group support, resulting in a 100% course completion rate
 
