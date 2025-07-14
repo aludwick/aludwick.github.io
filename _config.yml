@@ -3,6 +3,6 @@ theme: minima
 header_pages:
   - index.md
   - about.md
-  - projects.md
+  - research.md
   - campus.md
   - contact.md
