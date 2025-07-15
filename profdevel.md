@@ -9,3 +9,8 @@ title: Professional Development
 ## Accessible and Inclusive Biomedical Informatics and Data Science (AIBIDS) (May 2025 - Present)
 ## *University of Pittsburgh School of Medicine & Gallaudet University*
 - in progress
+
+# **Volunteer Work**
+## Clinical Study Participant (October 2019 - May 2023)
+## *University of Pittsburgh Medical Center*
+- in progress
