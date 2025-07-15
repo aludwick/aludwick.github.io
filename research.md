@@ -1,10 +1,10 @@
 ---
 title: Research
 ---
-# Projects
+# **Projects**
 # PittNAIL Lab (May 2025 - Present)
-- in progress
 ## *University of Pittsburgh, School of Health and Rehibilitation Sciences*
+- in progress
 # Tera Levin Lab (August 2024 - Present)
 ## *University of Pittsburgh, Department of Biological Sciences*
 - in progress
@@ -17,9 +17,9 @@ title: Research
 ## *University of Pittsburgh, Department of Biological Sciences*
 - in progress
 
-# Publications
+# **Publications**
 
-# Presentations
+# **Presentations**
 
 
 
