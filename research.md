@@ -22,7 +22,7 @@ title: Research
   
 - Actinobacteriophage Database: [*Gordonia* phage Charianelly](https://phagesdb.org/phages/Charianelly/)
 - Publication: [*Gordonia* phage Charianelly, complete genome](https://www.ncbi.nlm.nih.gov/nuccore/2789012978)
-- [Research Presentation](https://docs.google.com/presentation/d/1pFLjHnUY5YBNrDNtbN39VJwaMnyNSNqHZNjQujDvzLg/edit?usp=sharing)
+- Presentation: [Slideshow](https://docs.google.com/presentation/d/1pFLjHnUY5YBNrDNtbN39VJwaMnyNSNqHZNjQujDvzLg/edit?usp=sharing)
   
 ## Duckweed Survivor (January 2023 - April 2023)
 ## *University of Pittsburgh, Department of Biological Sciences*
