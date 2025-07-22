@@ -20,9 +20,9 @@ title: Research
 - Investigated potential biological mechanisms for a bacteriophage’s ability to expand its bacterial host range
 - Annotated 15 genes and called the function of 3 genes of Phage Charianelly within a team of 3 peers for publication in the Actinobacteriophage Database and National Library of Medicine
   
-- Actinobacteriophage Database: [*Gordonia* phage Charianelly] (https://phagesdb.org/phages/Charianelly/)
-- Publication: [*Gordonia* phage Charianelly, complete genome] (https://www.ncbi.nlm.nih.gov/nuccore/2789012978)
-- [Research Presentation] (https://docs.google.com/presentation/d/1pFLjHnUY5YBNrDNtbN39VJwaMnyNSNqHZNjQujDvzLg/edit?usp=sharing)
+- Actinobacteriophage Database: [*Gordonia* phage Charianelly](https://phagesdb.org/phages/Charianelly/)
+- Publication: [*Gordonia* phage Charianelly, complete genome](https://www.ncbi.nlm.nih.gov/nuccore/2789012978)
+- [Research Presentation](https://docs.google.com/presentation/d/1pFLjHnUY5YBNrDNtbN39VJwaMnyNSNqHZNjQujDvzLg/edit?usp=sharing)
   
 ## Duckweed Survivor (January 2023 - April 2023)
 ## *University of Pittsburgh, Department of Biological Sciences*
