@@ -14,7 +14,7 @@ title: Professional Development
 - Processed patient samples of blood, urine, body fluid, and tissue to the proper department, ensuring proper transport conditions based on physician orders 
 - Enhanced laboratory skills such as cellular morphology and pathogen identification, microscopy, micropipetting, sterile technique, and data entry
 
-# **Volunteer Work**
+# **Community Work**
 ## Clinical Study Participant (October 2019 - May 2023)
 ## *University of Pittsburgh Medical Center*
 - in progress
