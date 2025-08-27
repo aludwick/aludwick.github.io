@@ -4,7 +4,10 @@ title: Research
 # **Projects**
 ## PittNAIL Lab (May 2025 - Present)
 ## *University of Pittsburgh, School of Health and Rehibilitation Sciences*
-- in progress
+- Deployed and fine-tuned a large language model (MolT5) on the Pittsburgh Supercomputing Center to translate between drug molecule SMILES strings and natural language descriptors using Bash, Python, and Git
+- Curated custom training and testing datasets for molecule-to-text translation tasks, supporting model fine-tuning and evaluation
+- Used GitHub as a codebase reference and to access pipeline scripts for high-performance computing workflows
+
   
 ## Tera Levin Lab (August 2024 - Present)
 ## *University of Pittsburgh, Department of Biological Sciences*
