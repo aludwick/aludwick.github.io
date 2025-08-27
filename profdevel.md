@@ -5,7 +5,10 @@ title: Professional Development
 # **Internship Programs**
 ## Accessible and Inclusive Biomedical Informatics and Data Science (AIBIDS) (May 2025 - Present)
 ## *University of Pittsburgh School of Medicine & Gallaudet University*
-- in progress
+- Deployed and fine-tuned a large language model (MolT5) on the Pittsburgh Supercomputing Center to translate between drug molecule SMILES strings and natural language descriptors using Bash, Python, and Git
+- Curated custom training and testing datasets for molecule-to-text translation tasks, supporting model fine-tuning and evaluation
+- Used GitHub as a codebase reference and to access pipeline scripts for high-performance computing workflows
+
 
 ## Student Laboratory Intern (June 2024 - August 2024)
 ## *University of Pittsburgh Medical Center, Presbyterian Shadyside Clinical Laboratory Building*
@@ -17,4 +20,4 @@ title: Professional Development
 # **Community Work**
 ## Clinical Study Participant (October 2019 - May 2023)
 ## *University of Pittsburgh Medical Center*
-- in progress
+- TrialNet Type I Diabetes Drug Trial
