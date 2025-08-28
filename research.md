@@ -38,9 +38,8 @@ title: Research
 - *Gordonia* phage Charianelly, complete genome, National Library of Medicine, https://www.ncbi.nlm.nih.gov/nuccore/2789012978
 
 # **Presentations**
-## *Summer Undergraduate Research Symposium, Duquesne University*
-### July 24, 2025
-- "Enhancing Molecular Captioning with Large Language Models: Integrating Modern Architectures into the MolT5 Framework"
+## *Summer Undergraduate Research Symposium, Duquesne University (July 24, 2025)*
+### "Enhancing Molecular Captioning with Large Language Models: Integrating Modern Architectures into the MolT5 Framework" 
 
 
 
