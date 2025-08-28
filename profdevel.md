@@ -3,7 +3,7 @@ title: Professional Development
 ---
 
 # **Internship Programs**
-## Accessible and Inclusive Biomedical Informatics and Data Science (AIBIDS) (May 2025 - Present)
+## Accessible and Inclusive Biomedical Informatics and Data Science (AIBIDS) (May 2025 - July 2025)
 ## *University of Pittsburgh School of Medicine & Gallaudet University*
 - Deployed and fine-tuned a large language model (MolT5) on the Pittsburgh Supercomputing Center to translate between drug molecule SMILES strings and natural language descriptors using Bash, Python, and Git
 - Curated custom training and testing datasets for molecule-to-text translation tasks, supporting model fine-tuning and evaluation
