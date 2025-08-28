@@ -2,19 +2,19 @@
 title: Research
 ---
 # **Projects**
-## PittNAIL Lab (May 2025 - Present)
-## *University of Pittsburgh, School of Health and Rehibilitation Sciences*
-- Deployed and fine-tuned a large language model (MolT5) on the Pittsburgh Supercomputing Center to translate between drug molecule SMILES strings and natural language descriptors using Bash, Python, and Git
-- Curated custom training and testing datasets for molecule-to-text translation tasks, supporting model fine-tuning and evaluation
-- Used GitHub as a codebase reference and to access pipeline scripts for high-performance computing workflows
 
-  
 ## Tera Levin Lab (August 2024 - Present)
 ## *University of Pittsburgh, Department of Biological Sciences*
 - Assisting in conducting research of opportunistic pathogen Legionella pneumophila and its interactions with its environmental host Dicty amoebae under principal investigator Dr. Tera Levin and graduate student Mische Holland
 - Managed experimental procedures and their timelines through effectively communicating research progress to the laboratory team, keeping a detailed notebook, and updating the experimental protocols accordingly
 - Performed necessary laboratory tasks including culture plating and patching, spot dilutions, and bacterial growth assays while maintaining aseptic technique
 - Participated in journal clubs discussing relevant academic journals and reviews related to evolution of infectious diseases
+
+## PittNAIL Lab (May 2025 - July 2025)
+## *University of Pittsburgh, School of Health and Rehibilitation Sciences*
+- Deployed and fine-tuned a large language model (MolT5) on the Pittsburgh Supercomputing Center to translate between drug molecule SMILES strings and natural language descriptors using Bash, Python, and Git
+- Curated custom training and testing datasets for molecule-to-text translation tasks, supporting model fine-tuning and evaluation
+- Used GitHub as a codebase reference and to access pipeline scripts for high-performance computing workflows
 
 ## Viral Genomes (August 2023 - December 2023) 
 ## *University of Pittsburgh, Department of Biological Sciences*
@@ -38,6 +38,9 @@ title: Research
 - *Gordonia* phage Charianelly, complete genome, National Library of Medicine, https://www.ncbi.nlm.nih.gov/nuccore/2789012978
 
 # **Presentations**
+## *Summer Undergraduate Research Symposium, Duquesne University*
+### July 24, 2025
+- "Enhancing Molecular Captioning with Large Language Models: Integrating Modern Architectures into the MolT5 Framework"
 
 
 
