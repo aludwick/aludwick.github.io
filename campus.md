@@ -17,12 +17,12 @@ title: Campus Involvement
 
 
 # **Peer Mentorship**
-## Undergraduate Mentor (Starting August 2025)
+## Undergraduate Mentor (August 2025 - Present )
 ### *University of Pittsburgh, Dietrich School of Arts and Sciences, Office of Undergraduate Research, Scholarship, and Creative Activity (OUR)*
 - Mentor peers on research skill development, scholarly exploration, and navigating research opportunities within the Dietrich School
 - Collaborate with a cohort of mentors to foster a supportive and inclusive community of undergraduate scholars
 
-## Undergraduate Teaching Assistant, First Approaches in Research (Starting August 2025)
+## Undergraduate Teaching Assistant, First Approaches in Research (August 2025 - Present)
 ### *University of Pittsburgh, Dietrich School of Arts and Sciences, Office of Undergraduate Research, Scholarship, and Creative Activity (OUR)*
 - Support undergraduate students interested in learning different approaches to research
 - Lead student engagement through weekly discussions, site visits, and personalized office hours and share course updates and academic resources using Canvas and email
